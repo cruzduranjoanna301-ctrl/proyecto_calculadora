@@ -1,1 +1,3 @@
-def suma(a, b): # Cambio MASTER
+def suma(a, b): 
+    return a + b
+
