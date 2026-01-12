@@ -1,1 +1,1 @@
-def suma(a, b): # Cambio 2 return a + b
+def suma(a, b): # Cambio 1 return a + b
